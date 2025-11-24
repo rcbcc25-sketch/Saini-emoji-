@@ -63,12 +63,12 @@ async def show_random_emojis(message):
     return emoji_message
 
 # Inline keyboard for start command
-BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="📞 Contact", url="tg://openmessage?user_id=8136984784")]])
+BUTTONSCONTACT = InlineKeyboardMarkup([[InlineKeyboardButton(text="𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝", url="tg://openmessage?user_id=8136984784")]])
 keyboard = InlineKeyboardMarkup(
     [
         [
-            InlineKeyboardButton(text="📞 Contact", url="tg://openmessage?user_id=8136984784"),
-            InlineKeyboardButton(text="🛠️ Help", url="tg://openmessage?user_id=8136984784"),
+            InlineKeyboardButton(text="𓍯✮⃝mrचौहान✮⃝🚩⚝", url="tg://openmessage?user_id=8136984784"),
+            InlineKeyboardButton(text="𓍯✮⃝mr𝕮𝖍o𝖚𝖍𝖆𝖓✮⃝🚩⚝", url="tg://openmessage?user_id=8136984784"),
         ],
     ]
 )
